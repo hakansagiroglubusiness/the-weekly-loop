@@ -29,8 +29,8 @@ Bu ikisinin karışması en yaygın başarısızlık biçimi — sürekli hazır
 > Tek hedef: 30. günün sonunda dışarıdan bakan biri ne yaptığını görebilsin.
 
 ### Hafta 1 — Temel
-- [ ] `the-weekly-loop` repo iskeleti kur *(bu oturumda yapıldı)*
-- [ ] git init + GitHub'a **public** push
+- [x] `the-weekly-loop` repo iskeleti kur
+- [x] git init + GitHub'a **public** push — [repo](https://github.com/hakansagiroglubusiness/the-weekly-loop)
 - [ ] `skill-gap.md` puanlarını birlikte kalibre et
 - [ ] `target-roles.md` — ilk 20 şirket, coğrafi politika filtresiyle
 - [ ] GitHub profili: bio, README, konumlanma cümlesi

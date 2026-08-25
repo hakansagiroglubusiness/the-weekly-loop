@@ -20,16 +20,32 @@
 
 ## Hafta 1 — 2026-08-25 → 2026-08-31
 
-- **Yaptım:** `the-weekly-loop` repo iskeleti kuruldu. Strateji dosyaları yazıldı
-  (skill-gap, roadmap-90d, target-roles). Hedef rol kararı verildi:
-  AI Operations Manager / Growth System Architect — Growth Engineer değil.
-- **Kırıldı:** Mevcut Claude skill'leri diskte bulunamadı; workspace tarafında
-  duruyorlar. Export yolu H2'de çözülecek.
-- **Öğrendim:** Gerçek work-from-anywhere ilanları tüm remote ilanların %5'inden
-  az. Coğrafi filtre baştan kurulmazsa aylar boşa gider.
-- **Gelecek hafta:** GitHub'a public push + hedef listesinin ilk 20'sinin
-  doğrulanması.
-- **Kapı durumu:** Blok 1 / Gün 30 kapısına 4 madde var, 0'ı tamam.
-- **Saat:** Build 1.0 / Bridge 0 / Write 1.0 / Market 0.5
+- **Yaptım:** Repo kuruldu ve public olarak yayınlandı:
+  [the-weekly-loop](https://github.com/hakansagiroglubusiness/the-weekly-loop).
+  17 dosya, 3 commit. Strateji dosyaları yazıldı (skill-gap, roadmap-90d,
+  target-roles). Hedef rol kararı verildi: **AI Operations Manager / Growth
+  System Architect** — Growth Engineer değil, çünkü ikincisi gerçek kod ve
+  medyan 3.7 yıl mühendislik deneyimi istiyor.
+- **Kırıldı:**
+  1. `MIGRATION.md` müşteri adları içeriyordu (Blue Diamond, D Diamond, PlanB,
+     Medart) ve public push'ta sızacaktı. Gitignore'a alındı. **Ders:** gizlilik
+     kontrolü her push'tan önce çalışmalı, bir kez değil.
+  2. Mevcut Claude skill'leri diskte değil, workspace tarafında. Export yolu
+     H2'de çözülecek.
+  3. İlk isim (`growthos`) terk edildi. Repo `the-weekly-loop` oldu; ayrı ürün
+     markası (`growth-os`) tamamen düşürüldü — iki benzer isim yerine bir isim.
+- **Öğrendim:** Gerçek work-from-anywhere ilanları tüm remote ilanların
+  %5'inden az. "Remote" yazan çoğu ilan aslında "remote — US only". Coğrafi
+  filtre baştan kurulmazsa aylarca cevapsız başvuru yapılır ve bu yetersizlik
+  sanılır.
+- **Gelecek hafta:** Skill export + ilk iki skill'in markadan arındırılması.
+- **Kapı durumu:** Gün 30 kapısı — 4 maddeden 0'ı tamam (repo canlı ✓ ama
+  plugin, vaka ve postlar bekliyor). Hafta 1'in 5 maddesinden 2'si bitti.
+- **Saat:** Build 1.5 / Bridge 0 / Write 1.0 / Market 0.5
+
+**Kalan (bu hafta içinde):**
+- [ ] `skill-gap.md` puanlarının kalibrasyonu
+- [ ] `target-roles.md` Tier A — 11 şirketin doğrulanması
+- [ ] GitHub profili: bio + konumlanma cümlesi
 
 ---
