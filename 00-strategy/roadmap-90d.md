@@ -29,7 +29,7 @@ Bu ikisinin karışması en yaygın başarısızlık biçimi — sürekli hazır
 > Tek hedef: 30. günün sonunda dışarıdan bakan biri ne yaptığını görebilsin.
 
 ### Hafta 1 — Temel
-- [ ] `growthos` repo iskeleti kur *(bu oturumda yapıldı)*
+- [ ] `the-weekly-loop` repo iskeleti kur *(bu oturumda yapıldı)*
 - [ ] git init + GitHub'a **public** push
 - [ ] `skill-gap.md` puanlarını birlikte kalibre et
 - [ ] `target-roles.md` — ilk 20 şirket, coğrafi politika filtresiyle
@@ -48,7 +48,7 @@ Bu ikisinin karışması en yaygın başarısızlık biçimi — sürekli hazır
 - [ ] İlk İngilizce launch postu (LinkedIn + X)
 
 ### Hafta 4 — İlk vaka
-- [ ] Case 1 "The Weekly Loop" yazılır
+- [ ] Case 1 "The Handover" yazılır
 - [ ] Sistem diyagramı
 - [ ] Anonimleştirme kontrolü (marka adı yok, mutlak rakam yok)
 - [ ] Yayın + LinkedIn profili güncellemesi

@@ -33,14 +33,12 @@ Three things I care about here:
 | Directory | Contents |
 |---|---|
 | `50-portfolio/` | Written case studies with numbers — **start here** |
-| `20-skills/` | `growth-os` — the installable skill set that runs the loop |
+| `20-skills/` | The installable skill set that runs the loop |
 | `10-playbooks/` | Brand-agnostic, repeatable growth processes |
 | `30-agents/` | Subagent definitions for delegated analysis |
 | `40-automations/` | Scheduled jobs that run without supervision, plus the incident log |
 | `00-strategy/` | My own working notes (Turkish) — kept public on purpose |
 | `90-lab/` | Experiments. Things graduate out of here or get deleted. |
-
-**Naming:** the repo is the story; `growth-os` is the tool inside it.
 
 ## Status
 

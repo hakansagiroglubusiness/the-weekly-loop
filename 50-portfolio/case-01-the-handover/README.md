@@ -1,4 +1,4 @@
-# Case 01 — The Weekly Loop
+# Case 01 — The Handover
 
 > **Status:** Skeleton. To be written Week 4.
 > **Thesis:** A recurring weekly optimization routine can be handed to an agent

@@ -20,7 +20,7 @@
 
 ## Hafta 1 — 2026-08-25 → 2026-08-31
 
-- **Yaptım:** `growthos` repo iskeleti kuruldu. Strateji dosyaları yazıldı
+- **Yaptım:** `the-weekly-loop` repo iskeleti kuruldu. Strateji dosyaları yazıldı
   (skill-gap, roadmap-90d, target-roles). Hedef rol kararı verildi:
   AI Operations Manager / Growth System Architect — Growth Engineer değil.
 - **Kırıldı:** Mevcut Claude skill'leri diskte bulunamadı; workspace tarafında

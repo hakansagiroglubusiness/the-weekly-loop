@@ -104,7 +104,7 @@ Coğrafi politika:   [ ] Anywhere  [ ] EMEA  [ ] Kapalı
 
 Gereksinim              | Kanıtım                          | Boşluk
 ------------------------|----------------------------------|--------
-"agent workflow kurma"  | growth-os plugin, 4 skill        | yok
+"agent workflow kurma"  | 20-skills/ — 4 skill             | yok
 "SQL"                   | 90-lab/sql/ — 20 sorgu           | orta
 "A/B test tasarımı"     | —                                | VAR
 ```

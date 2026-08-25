@@ -18,7 +18,7 @@ budget without explicit typed confirmation. Read and analyze freely; write only 
 confirmation. This is not a preference — an agent with unsupervised write access to
 a spending account is a liability, not a feature.
 
-## Planned — `growth-os` plugin v1
+## Planned — skill set v1
 
 | Skill | Purpose | Week |
 |---|---|---|

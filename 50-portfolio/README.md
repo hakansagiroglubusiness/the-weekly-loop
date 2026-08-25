@@ -20,5 +20,5 @@ without it is marketing, not evidence — and readers can tell.
 
 | # | Title | Status |
 |---|---|---|
-| 01 | The Weekly Loop | Draft — Week 4 |
+| 01 | The Handover | Draft — Week 4 |
 | 02 | What the Agent Got Wrong | Draft — Week 9 |
