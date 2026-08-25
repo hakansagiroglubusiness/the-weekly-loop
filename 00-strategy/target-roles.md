@@ -29,27 +29,46 @@ ilan havuzunda olmayan roller insan üzerinden açılıyor.
 
 ## Katmanlar
 
-### Tier A — Doğrulanmış work-from-anywhere
-Yayınlanmış küresel işe alım politikası var. En yüksek öncelik.
+### Tier A — Öncelikli, araştırıldı 2026-08-25
 
-| Şirket | Neden listede | Kaynak | Doğrulandı |
-|---|---|---|---|
-| Automattic | 83 ülkede işe alım | FlexJobs 2026 | [ ] |
-| GitLab | 50+ ülke, all-remote'un kurucusu | FlexJobs 2026 | [ ] |
-| Deel | 80+ ülke — üstelik EOR'un kendisi | FlexJobs 2026 | [ ] |
-| Canonical | Küresel, konum kısıtsız roller | FlexJobs 2026 | [ ] |
-| Xapo Bank | Konum kısıtsız, listelerde sürekli | FlexJobs 2026 | [ ] |
-| Wikimedia Foundation | Konum kısıtsız | FlexJobs 2026 | [ ] |
-| Superside | Küresel, yaratıcı/pazarlama ağırlıklı | FlexJobs 2026 | [ ] |
-| Camunda | 80+ ülke, remote-first + async-first | Remotivated 2026 | [ ] |
-| Brave | Tam remote, konum kısıtsız ilanlar | Remotivated 2026 | [ ] |
-| Invisible Technologies | Gerçek work-from-anywhere roller | FlexJobs 2026 | [ ] |
-| CloudLinux | Küresel | FlexJobs 2026 | [ ] |
+Sıralama Hakan'a göre: pazarlama rolü var mı + Türkiye'den alım mümkün mü.
 
-> ⚠️ Hiçbiri doğrulanmadı. Bunlar **araştırma başlangıç noktası**, hedef listesi
-> değil. Her satır için canlı ilan + yayınlanmış politika kontrol edilecek ve
-> kutu işaretlenecek. Şirketlerin "anywhere" iddiası ile fiili uygulaması sıkça
-> ayrışıyor.
+| # | Şirket | Türkiye durumu | Pazarlama rolü | Öncelik |
+|---|---|---|---|---|
+| 1 | **Camunda** | ✅ **İsmen doğrulandı** — Remote.com (EOR) üzerinden Türkiye'de istihdam ediyor, Türkiye'ye ek sağlık planı bile sağlıyor. 75+ ülke. | Var, remote-first + async-first | **En yüksek** |
+| 2 | **Xapo Bank** | ✅ Açık work-from-anywhere, 50+ ülkede dağıtık ekip, Gibraltar merkezli (ABD ambargo rejimi dışında) | ✅ **Marketing Operations Analyst (Work from Anywhere)** ilanı canlı | **En yüksek** |
+| 3 | **Superside** | ✅ 2018'den beri tam remote, "live and work from anywhere" | ✅ Growth Product Manager, Head of Retention Marketing. AI destekli kreatif servis şirketi — sektör uyumu güçlü | **Yüksek** |
+| 4 | **Automattic** | ⚠️ Muhtemel — 90+ ülke. Yasaklı ülkeler listesi net (Kuzey Kore, Küba, İran, Suriye, Sudan, Kırım, Çin anakarası). **Türkiye listede yok.** | Var | Yüksek |
+| 5 | **Invisible Technologies** | ⚠️ Muhtemel — gerçek work-from-anywhere rolleriyle biliniyor, ABD merkezli | Growth ekibi var, AI şirketi | Orta-yüksek |
+| 6 | **Canonical** | ⚠️ Muhtemel — 70+ ülke, 1000+ kişi | 15 pazarlama rolü açık | Orta |
+| 7 | **Deel** | ⚠️ İlan bazlı — 100+ ülkede ekip var ama **her ilanın kendi uygun-ülke listesi var** | Pazarlama/growth ekibi var | Orta |
+| 8 | **GitLab** | ❌ **Engel var** — "ülkenizde yasal tüzel kişiliğimiz olması şart". Türkiye'de entity olup olmadığı belirsiz | Var | Düşük, önce sor |
+| 9 | Brave | ❓ Araştırılmadı | Sınırlı | Düşük |
+| 10 | Wikimedia Foundation | ❓ Araştırılmadı | Pazarlama odaklı değil | Düşük |
+| 11 | CloudLinux | ❓ Araştırılmadı | Pazarlama odaklı değil | Düşük |
+
+**Araştırmadan çıkan üç ders:**
+
+1. **"Work from anywhere" neredeyse her zaman şartlı.** GitLab tüzel kişilik
+   istiyor, Deel'de her ilanın ayrı ülke listesi var, Canonical yılda iki kez
+   ikişer hafta seyahat bekliyor. İddiayı değil, ilanın kendi metnini oku.
+2. **EOR kullanan şirketler en güvenli hedef.** Camunda'nın Türkiye'de
+   Remote.com üzerinden istihdam etmesi, tüzel kişilik sorununu tamamen
+   ortadan kaldırıyor. İlanda "via Remote" / "via Deel" / "EOR" geçiyorsa
+   coğrafi engel yok demektir.
+3. **En iyi eşleşme en büyük şirket değil.** Xapo'daki "Marketing Operations
+   Analyst — Work from Anywhere" ilanı, kalibre edilmiş hedef unvanla birebir
+   örtüşüyor ve coğrafi engeli yok. Bir tanesi doğru, ondan iyisi yok.
+
+**Doğrulama yöntemi — her ilan için tekrarla:**
+- İlanın kendi metnindeki "eligible locations" satırını oku, şirketin genel
+  iddiasını değil
+- "via Remote", "via Deel", "EOR", "contractor" kelimelerini ara — varsa iyi işaret
+- Belirsizse başvur ve sor. Cevap "hayır" olsa bile 5 dakika kaybettin.
+
+> ⚠️ İlan durumları günlük değişir. Bu tablo 2026-08-25 tarihli araştırmaya
+> dayanıyor ve **canlı ilan doğrulaması içermiyor** — şirket politikası
+> araştırmasıdır. Başvurmadan önce ilanı kendin aç.
 
 ### Tier B — EMEA / Avrupa dahil
 ABD dışı işe alım yapıyor, Türkiye açıkça dışlanmamış. Doğrulama gerektirir.
