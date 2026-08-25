@@ -63,8 +63,20 @@
   Hatanın şeklini artık biliyoruz; `weekly-report` skill'i mutabakat ve tamlık
   kontrolüyle doğacak, sonradan eklenmeyecek.
 
-**Kalan (bu hafta içinde):**
-- [ ] Bio'nun GitHub ayarlarına yapıştırılması
-- [ ] LinkedIn linki + şehir bilgisinin profile eklenmesi
+- **GitHub profili tamamlandı.** Bio yapıştırıldı, LinkedIn eklendi,
+  "Remote only" açıkça yazıldı.
+
+---
+
+## Hafta 2 — erken başlangıç
+
+- **Yaptım:** `weekly-report` SKILL.md yazıldı. Mutabakat, tamlık ve
+  "uydurma yok" kapıları baştan içinde.
+- **Yöntem değişikliği:** Skill migration iptal edildi. Skill'ler diskte değil,
+  ama asıl sebep o değil: müşteriye gömülü altı dosyayı public repoya taşımak
+  projenin en büyük gizlilik riski. Taşımak yerine temiz yazıldı.
+- **Dikkat:** Ortada bir **şartname** var, çalışan bir şey yok. İkisi aynı şey
+  değil ve bu ayrımı kaybetmemek lazım. Sıradaki iş gerçek veriyle koşturmak.
+- **Kalan:** 8 eval vakasının gerçek veriyle test edilmesi, `paid-audit`.
 
 ---

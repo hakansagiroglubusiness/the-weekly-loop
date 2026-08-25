@@ -44,13 +44,15 @@ Bu ikisinin karışması en yaygın başarısızlık biçimi — sürekli hazır
 > `weekly-report` skill'i mutabakat ve tamlık kontrolüyle **doğar** — sonradan
 > eklenmez. Bilinen bir hatayı yazılmamış bir skill'e taşımak anlamsız.
 
-- [ ] Mevcut skill'leri export et → `20-skills/`
-- [ ] `weekly-report`'u marka-bağımsız hale getir
-- [ ] **Mutabakat kontrolü:** rapor toplamı ile platform toplamı eşleşmiyorsa
-      rapor üretilmez, durur
-- [ ] **Tamlık kontrolü:** beklenen her kampanya raporda çıktı mı
-- [ ] **Kaynak çözülmezse uydurma yok:** eksik veri "eksik" olarak raporlanır
-- [ ] İkinci skill migrate edilir
+- [x] ~~Mevcut skill'leri export et~~ — **iptal.** Skill'ler diskte değil ve
+      müşteriye gömülü altı dosyayı public repoya taşımak projenin en büyük
+      gizlilik riski. Taşımak yerine temiz yazıldı.
+- [x] `weekly-report` **yazıldı** — [SKILL.md](../20-skills/weekly-report/SKILL.md)
+- [x] Mutabakat, tamlık ve "uydurma yok" kapıları skill'in içinde doğdu
+- [ ] **Gerçek veriyle çalıştır.** Şu an bir şartname var, çalışan bir şey yok.
+      Bu ikisi aynı şey değil.
+- [ ] 8 eval vakasını gerçek veriyle koştur — özellikle 2, 3, 4, 6
+- [ ] İkinci skill: `paid-audit`
 - [ ] Temiz kurulum testi: başka bir dizinde çalışıyor mu
 
 ### Hafta 3 — Plugin v1
