@@ -53,8 +53,17 @@
   kişilik şartı.
 - GitHub profil README'si yayınlandı.
 
+- **Incident yazıldı.** Haftalık raporda bir kampanyanın tüm metrikleri
+  yanlıştı. Muhtemel kök neden: kampanya isim eşleşmesi — isim, platform
+  satırlarını kampanyaya bağlayan anahtar. İsim kayınca aritmetik yanlış
+  satırlarda çalışıyor ve tertemiz, kendinden emin, tamamen uydurma bir sayı
+  üretiyor. **Uyarı vermedi.** Sunum sırasında, canlı yakalandı. Sonrasında
+  hiçbir şey değişmedi.
+- **Plan değişikliği:** Guardrail çalışması Hafta 7'den Hafta 2'ye çekildi.
+  Hatanın şeklini artık biliyoruz; `weekly-report` skill'i mutabakat ve tamlık
+  kontrolüyle doğacak, sonradan eklenmeyecek.
+
 **Kalan (bu hafta içinde):**
-- [ ] Agent'ın yanlış çıktısının müşteriye ulaştığı olayın yazılması
 - [ ] Bio'nun GitHub ayarlarına yapıştırılması
 - [ ] LinkedIn linki + şehir bilgisinin profile eklenmesi
 

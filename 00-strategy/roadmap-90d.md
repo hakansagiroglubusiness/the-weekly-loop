@@ -34,13 +34,23 @@ Bu ikisinin karışması en yaygın başarısızlık biçimi — sürekli hazır
 - [x] `skill-gap.md` puanlarını birlikte kalibre et
 - [x] `target-roles.md` — Tier A 11 şirket araştırıldı, coğrafi politika filtresiyle
 - [x] GitHub profili: README yayında; bio elle yapıştırılacak
-- [ ] **Mevcut incident'ı yaz** — agent'ın ürettiği yanlış çıktının müşteriye
-      ulaştığı olay. `40-automations/incidents.md`. Detaylar her gün siliniyor.
+- [x] **Mevcut incident'ı yaz** — [incidents.md](../40-automations/incidents.md).
+      Kök neden: kampanya isim eşleşmesi. Uyarı vermedi, sunumda yakalandı,
+      sonrasında hiçbir şey değişmedi.
 
 ### Hafta 2 — Markadan arındırma
+> **Incident'tan gelen plan değişikliği:** guardrail çalışması Hafta 7'ye
+> planlanmıştı. Ama artık hatanın tam şeklini biliyoruz, tahmin etmiyoruz.
+> `weekly-report` skill'i mutabakat ve tamlık kontrolüyle **doğar** — sonradan
+> eklenmez. Bilinen bir hatayı yazılmamış bir skill'e taşımak anlamsız.
+
 - [ ] Mevcut skill'leri export et → `20-skills/`
-- [ ] `MIGRATION.md`'ye göre 2 skill'i marka-bağımsız hale getir
-- [ ] Her birine guardrail + failure mode bölümü ekle
+- [ ] `weekly-report`'u marka-bağımsız hale getir
+- [ ] **Mutabakat kontrolü:** rapor toplamı ile platform toplamı eşleşmiyorsa
+      rapor üretilmez, durur
+- [ ] **Tamlık kontrolü:** beklenen her kampanya raporda çıktı mı
+- [ ] **Kaynak çözülmezse uydurma yok:** eksik veri "eksik" olarak raporlanır
+- [ ] İkinci skill migrate edilir
 - [ ] Temiz kurulum testi: başka bir dizinde çalışıyor mu
 
 ### Hafta 3 — Plugin v1
