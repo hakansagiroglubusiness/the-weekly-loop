@@ -43,9 +43,19 @@
   plugin, vaka ve postlar bekliyor). Hafta 1'in 5 maddesinden 2'si bitti.
 - **Saat:** Build 1.5 / Bridge 0 / Write 1.0 / Market 0.5
 
+**Hafta 1 ek çıktılar:**
+- Skill-gap kalibre edildi. Dört eksenden üçü ilk tahminin altına indi.
+  En önemlisi: 1-3 yıl deneyim, `AI Operations Manager` hedefini erişilemez
+  kılıyor. Hedef unvanlar bir kademe indirildi, yön korundu.
+- Tier A'daki 11 şirket araştırıldı. **Camunda Türkiye'de EOR üzerinden
+  istihdam ediyor (ismen doğrulandı).** Xapo Bank'ta kalibre edilmiş hedef
+  unvanla birebir örtüşen canlı ilan var. GitLab elendi — ülkede tüzel
+  kişilik şartı.
+- GitHub profil README'si yayınlandı.
+
 **Kalan (bu hafta içinde):**
-- [ ] `skill-gap.md` puanlarının kalibrasyonu
-- [ ] `target-roles.md` Tier A — 11 şirketin doğrulanması
-- [ ] GitHub profili: bio + konumlanma cümlesi
+- [ ] Agent'ın yanlış çıktısının müşteriye ulaştığı olayın yazılması
+- [ ] Bio'nun GitHub ayarlarına yapıştırılması
+- [ ] LinkedIn linki + şehir bilgisinin profile eklenmesi
 
 ---

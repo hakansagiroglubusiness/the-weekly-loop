@@ -31,9 +31,9 @@ Bu ikisinin karışması en yaygın başarısızlık biçimi — sürekli hazır
 ### Hafta 1 — Temel
 - [x] `the-weekly-loop` repo iskeleti kur
 - [x] git init + GitHub'a **public** push — [repo](https://github.com/hakansagiroglubusiness/the-weekly-loop)
-- [ ] `skill-gap.md` puanlarını birlikte kalibre et
-- [ ] `target-roles.md` — ilk 20 şirket, coğrafi politika filtresiyle
-- [ ] GitHub profili: bio, README, konumlanma cümlesi
+- [x] `skill-gap.md` puanlarını birlikte kalibre et
+- [x] `target-roles.md` — Tier A 11 şirket araştırıldı, coğrafi politika filtresiyle
+- [x] GitHub profili: README yayında; bio elle yapıştırılacak
 - [ ] **Mevcut incident'ı yaz** — agent'ın ürettiği yanlış çıktının müşteriye
       ulaştığı olay. `40-automations/incidents.md`. Detaylar her gün siliniyor.
 
