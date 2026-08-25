@@ -1,0 +1,17 @@
+# Client data — never commit
+20-skills/_source/
+**/raw-data/
+*.csv
+*.xlsx
+.env
+.env.*
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Internal working docs — contain client/brand names, never pushed
+20-skills/MIGRATION.md
