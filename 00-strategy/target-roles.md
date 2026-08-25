@@ -20,6 +20,11 @@ Avrupa ve Ortadoğu'ya açılan şirketler için doğrudan değer. Bu bir dezava
 
 **Sonuç:** Liste "remote" diye değil, **coğrafi politikaya göre** kurulur.
 
+**3. Kıdem filtresi coğrafi filtreyle çarpışıyor.** 1-3 yıl deneyim + gerçek
+work-from-anywhere = çok küçük bir havuz. Bu yüzden başvuru **tek kanal olamaz**.
+Build in public ve doğrudan insan teması, ilan takibi kadar önemli — çünkü
+ilan havuzunda olmayan roller insan üzerinden açılıyor.
+
 ---
 
 ## Katmanlar
@@ -62,19 +67,28 @@ zaman kaybı biçimi.
 
 ## Rol adları — hangisini aratacaksın
 
-Aynı iş, farklı isimlerle ilan ediliyor. Hepsini ara:
+> **Hafta 1 kalibrasyonundan sonra güncellendi.** 1-3 yıl deneyim ve ekip
+> yönetimi olmaması, `Manager` / `Architect` unvanlarını şimdilik erişilemez
+> kılıyor. Hedefler bir kademe indi, yön aynı kaldı.
 
-**Birincil (profiline en yakın):**
-`AI Operations Manager` · `Growth System Architect` · `Marketing Operations Manager` ·
-`AI Marketing Lead` · `Growth Operations`
+**Birincil — şimdi başvurulacaklar:**
+`Growth Marketing Manager` (AI odaklı ilanlar) · `Performance Marketing Manager` ·
+`Marketing Operations Specialist` · `Growth Operations` · `Paid Media Manager`
+(AI-native şirketlerde)
 
-**İkincil (girilebilir):**
-`Growth Marketing Manager` (AI vurgulu ilanlar) · `Performance Marketing Lead` ·
-`Marketing Automation Manager` · `Lifecycle Marketing Manager`
+**İkincil — girilebilir, bazen daha iyi kapı:**
+`Growth Associate` · `Marketing Automation Specialist` · `Lifecycle Marketing` ·
+`Demand Generation Manager`
 
-**Şimdilik erişilemez — ama 12 ayda hedef:**
-`Growth Engineer` · `AI Engineer, Growth` — gerçek kod istiyor, medyan 3.7 yıl
-deneyim. 90 günde değil, ikinci 90 günde konuşulur.
+**Şimdilik erişilemez — 12 ay hedefi:**
+`AI Operations Manager` · `Growth System Architect` · `Growth Engineer`
+
+Bunlar 4+ yıl ve ekip/sistem sorumluluğu istiyor. Şimdi başvurmak, okunmadan
+elenmek demek. İlk rol bunlara giden basamak.
+
+**Filtre kelimeleri — ilanda bunlar geçiyorsa öncelik ver:**
+`AI` · `agent` · `automation` · `experimentation` · `full-stack marketer` ·
+`generalist` — bu ilanlar kıdemden çok yapabilirliğe bakma eğiliminde.
 
 ---
 

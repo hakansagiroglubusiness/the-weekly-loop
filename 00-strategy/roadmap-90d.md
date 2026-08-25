@@ -34,6 +34,8 @@ Bu ikisinin karışması en yaygın başarısızlık biçimi — sürekli hazır
 - [ ] `skill-gap.md` puanlarını birlikte kalibre et
 - [ ] `target-roles.md` — ilk 20 şirket, coğrafi politika filtresiyle
 - [ ] GitHub profili: bio, README, konumlanma cümlesi
+- [ ] **Mevcut incident'ı yaz** — agent'ın ürettiği yanlış çıktının müşteriye
+      ulaştığı olay. `40-automations/incidents.md`. Detaylar her gün siliniyor.
 
 ### Hafta 2 — Markadan arındırma
 - [ ] Mevcut skill'leri export et → `20-skills/`
@@ -61,8 +63,12 @@ Public repo canlı · Plugin kurulabilir · 1 vaka yayında · 3+ İngilizce pos
 ## BLOK 2 — Gün 31-60: Teknik Köprü + Sistemleştirme
 
 ### Hafta 5 — SQL temel
+> **Kalibrasyon notu:** sorular bilerek kohort ve retention üzerinden seçilecek.
+> Böylece 3. eksen (veri) ve 5. eksen (deneycilik) aynı saatte ilerler. Öğrenilen
+> şey değişmiyor, sadece hangi soruyu sorduğun değişiyor.
+
 - [ ] SELECT / WHERE / GROUP BY / JOIN — kendi GA4 verinde
-- [ ] 10 gerçek soru yaz, 10 sorguyla cevapla
+- [ ] 10 gerçek soru yaz, 10 sorguyla cevapla — en az 5'i kohort/retention
 - [ ] Her sorguyu `90-lab/sql/` altına kaydet
 
 ### Hafta 6 — SQL derinlik
@@ -80,7 +86,7 @@ Public repo canlı · Plugin kurulabilir · 1 vaka yayında · 3+ İngilizce pos
 - [ ] Zamanlanmış agent: haftalık raporu kendi çeksin, yazsın, göndersin
 - [ ] 7 gün dokunmadan izle
 - [ ] Kırılan her şeyi `40-automations/incidents.md`'ye yaz
-- [ ] Case 2 taslağı bu incident'lardan çıkar
+- [ ] Case 2 taslağı bu incident'larla **Hafta 1'de yazılan olay** birleştirilerek çıkar
 
 **🚪 Gün 60 kapısı**
 SQL bağımsız yazılıyor · Skill'lerde eval var · 1 otomasyon gözetimsiz çalıştı · Case 2 taslak
@@ -90,10 +96,16 @@ SQL bağımsız yazılıyor · Skill'lerde eval var · 1 otomasyon gözetimsiz �
 ## BLOK 3 — Gün 61-90: Piyasaya Çıkış
 
 ### Hafta 9 — Case 2 + ürün dili
+> **Kalibrasyon notu:** 5. eksen 2/10'dan başlıyor, 4'ten değil. Bu hafta tek
+> başına yetmez; Hafta 5-6'daki SQL sorularının kohort/retention seçilmesi bu
+> yüzden. Hedef 7 değil **5** — "dili konuşabiliyor ve doğru soruyu soruyor"
+> seviyesi. Uzmanlık ikinci 90 günde.
+
 - [ ] Case 2 "What the agent got wrong" yayınlanır
-- [ ] A/B istatistiği: anlamlılık, örneklem, peeking problemi
-- [ ] Aktivasyon / retention / North Star metriği — ürün growth dili
+- [ ] A/B istatistiği: anlamlılık, örneklem büyüklüğü, peeking problemi
+- [ ] Aktivasyon / retention / North Star — ürün growth dili
 - [ ] Ajans metriklerini ürün metriklerine çeviren bir not yaz
+      (ROAS → CAC → LTV → payback → D30 retention zinciri)
 
 ### Hafta 10 — Hedefleme
 - [ ] Hedef liste 20 → 40
